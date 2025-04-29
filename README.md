@@ -18,5 +18,6 @@ If the correlation is weak, it could suggest standardized pay scales or non-trad
 
 Analysis Process: The dataset was explored by preprocessing inconsistent values, such as replacing the "height" column with random integers in the range of 150–180 for uniformity. Key analysis steps included determining employee distribution across teams and positions, identifying predominant age groups, assessing salary expenditures, and analyzing correlations 
 
-Analysis Process: The dataset was explored by preprocessing inconsistent values, such as replacing the "height" column with random integers in the range of 150–180 for uniformity. Key analysis steps included determining employee distribution across teams and positions, identifying predominant age groups, assessing salary expenditures, and analyzing correlations 
+Visualization: Appropriate visual tools, such as bar charts, pie charts, scatterplots, and heatmaps, were utilized to represent findings effectively. These visualizations clarified trends, patterns, and relationships within the dataset, making the data insights easily interpretable and actionable
+
 

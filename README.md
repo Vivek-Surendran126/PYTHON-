@@ -15,3 +15,8 @@ Disparities between teams might highlight differences in priorities or resource 
 AGE VS SALARY CORRELATION
 A positive correlation might indicate that salary grows with experience and tenure
 If the correlation is weak, it could suggest standardized pay scales or non-traditional compensation structures.
+
+Analysis Process: The dataset was explored by preprocessing inconsistent values, such as replacing the "height" column with random integers in the range of 150–180 for uniformity. Key analysis steps included determining employee distribution across teams and positions, identifying predominant age groups, assessing salary expenditures, and analyzing correlations 
+
+Analysis Process: The dataset was explored by preprocessing inconsistent values, such as replacing the "height" column with random integers in the range of 150–180 for uniformity. Key analysis steps included determining employee distribution across teams and positions, identifying predominant age groups, assessing salary expenditures, and analyzing correlations 
+
